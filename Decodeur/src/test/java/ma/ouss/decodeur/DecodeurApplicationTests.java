@@ -1,0 +1,13 @@
+package ma.ouss.decodeur;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DecodeurApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
